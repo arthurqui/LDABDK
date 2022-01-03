@@ -1,0 +1,35 @@
+BEM VINDO AO TUTORIAL DO LDA!
+
+Para instalar esse programa, abra a pasta "instalação" e faça o seguinte:
+
+- Copie o arquivo "chromedriver.exe" para a pasta "C:\Windows" do seu computador
+- Execute e instale o executavel "windowsdesktop-runtime-3.1.22-win-x64"
+
+Depois disso é só voltar para a pasta "programa" e executar o "LDABDK.exe"
+
+Como usar:
+
+- Execute o "LDABDK.exe" 
+- Aperte iniciar
+- Logue com sua conta Steam
+- Aperte OK
+- Espere o bot ler a lista toda
+- Aperte OK nos ultimos avisos
+- Fim
+
+Programa feito 100% pelo Paraíba BDK, não me conhece??
+entra nesse link: 
+
+https://www.youtube.com/brasildropkeys
+
+100% livre de virus e outras ameaças.
+
+
+OBS.: esse programa foi feito no dia 03/01/22 e estava funcionando corretamente...
+pode ser que a steam atualize alguma coisa que faça parar de funcionar... caso ocorra me avise que eu conserto assim que possível!
+
+Um abraço e se inscreve no meu canal!!
+
+Pix para doaçoes: 
+8cd96b94-86da-44e1-be8b-cd33e667d805
+Ajuda noi :>
